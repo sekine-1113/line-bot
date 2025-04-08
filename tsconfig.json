@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "lib": ["es2015"],
+      "types": ["google-apps-script"],
+      "module": "none",
+      "outDir": "dist",
+      "rootDir": "src",
+      "strict": true
+    }
+}
