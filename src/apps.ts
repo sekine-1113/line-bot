@@ -99,10 +99,6 @@ const scheduleApp = {
   },
 };
 
-const notify = () => {
-  // postNotify(message);
-};
-
 const animeRecommendApp = {
   fetch: () => {
     const sheet = fetchSheetsByUrl(
