@@ -1,0 +1,15 @@
+{
+  "name": "clasp-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "login": "npx clasp login"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google/clasp": "^3.0.3-alpha"
+  }
+}
